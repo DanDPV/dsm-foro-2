@@ -13,3 +13,6 @@ Aplicación práctica realizada para el foro 2 de la materia DSM, permite inicia
 
 [Enlace de video](https://youtu.be/nahi4hPkHlY)
 
+## Documento de investigación
+
+[Enlace a documento](https://github.com/DanDPV/dsm-foro-2/blob/main/investigacion.pdf)

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "595030947142",
+    "project_id": "nurse-control-b0902",
+    "storage_bucket": "nurse-control-b0902.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595030947142:android:27018f6239593387f82147",
+        "android_client_info": {
+          "package_name": "com.udb.nurse_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595030947142-p11ns969bjdgmv2iaau14anjaokg4m1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udb.nurse_control",
+            "certificate_hash": "5d3061eb1db550a1e35d7c8b2e7ec47e292f96a6"
+          }
+        },
+        {
+          "client_id": "595030947142-vtdlal6vdng5skhasjupg0seruiv6kss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udb.nurse_control",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "595030947142-rjatc4vfl333thmkkcil7rs5eqjeia2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBumxt_Fd9ThzDuxPXFcUkioklQG9kgmGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595030947142-rjatc4vfl333thmkkcil7rs5eqjeia2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
